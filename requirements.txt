@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+backtesting
+fyers-apiv3
+pyotp
+requests
+pytz
